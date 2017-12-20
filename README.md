@@ -1,0 +1,2 @@
+# Apps-Discover
+Most of you might think that an Ad Network is the only one middleman between a Publisher and the Advertiser. But it is not always the same. You must inquire about the number of hops that is involved in between, as every hop needs their own cut. The higher the cut means the lower is your revenue.  Ad Networking is one big opportunity to grow your business. But, if you fail to pay attention on these details, it can backfire and you might have to pay costs that are higher than usual. All you need to do is, make through it smartly!
